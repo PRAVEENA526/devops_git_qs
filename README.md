@@ -1,2 +1,4 @@
 # devops_git_qs
- This is devops training class 
+ This is devops training class
+
+ we are creating braches
