@@ -1,4 +1,4 @@
 # devops_git_qs
  This is devops training class
 
- we are creating braches
+ we are creating branches
